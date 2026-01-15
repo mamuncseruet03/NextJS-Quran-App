@@ -4,14 +4,12 @@ import { ApiIcon } from "./my-icons";
 import { GitHubLogoIcon } from "@radix-ui/react-icons";
 import { ThemeToggle } from "./theme/theme-toggle";
 import Settings from "./settings";
-import { HeartPulseIcon } from "lucide-react";
+import { FileText, HeartPulseIcon, SquarePlay, Table } from "lucide-react";
 
 export default function ButtonGroup() {
   return (
     <div className="flex gap-2 items-center">
-      <ThemeToggle />
-        
-      <Button asChild size={"icon"} variant={"secondary"} className="size-8">
+      {/* <Button asChild size={"icon"} variant={"secondary"} className="size-8">
         <Link href={"https://alquran.cloud/api"} target="_blank">
           <ApiIcon className="size-4 fill-secondary-foreground" />
         </Link>
@@ -23,14 +21,16 @@ export default function ButtonGroup() {
           target="_blank">
           <GitHubLogoIcon className="size-4" />
         </Link>
-      </Button>
-
-
-      <Settings />
+      </Button> */}
 
       <Button asChild size={"icon"}>
         <Link href={"/"}>
-          <HeartPulseIcon className="" />
+          <Table />
+        </Link>
+      </Button>
+      <Button asChild size={"icon"}>
+        <Link href={"/videos"}>
+          <SquarePlay />
         </Link>
       </Button>
     </div>

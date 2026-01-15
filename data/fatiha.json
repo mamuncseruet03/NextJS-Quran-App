@@ -1,0 +1,609 @@
+[
+  {
+    "id": 1,
+    "verseNumber": 1,
+    "verseKey": "1:1",
+    "hizbNumber": 1,
+    "rubElHizbNumber": 1,
+    "rukuNumber": 1,
+    "manzilNumber": 1,
+    "sajdahNumber": null,
+    "textUthmani": "ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ",
+    "chapterId": 1,
+    "textImlaeiSimple": "ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ",
+    "pageNumber": 1,
+    "juzNumber": 1,
+    "words": [
+      {
+        "id": 1,
+        "position": 1,
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_001_001.mp3",
+        "qpcUthmaniHafs": "ٱلۡحَمۡدُ",
+        "textIndopak": "ٱلۡحَمۡدُ",
+        "charTypeName": "word",
+        "pageNumber": 1,
+        "lineNumber": 9,
+        "text": "ٱلۡحَمۡدُ",
+        "translationBn": { "text": "সকল প্রশংসা", "languageName": "bangla", "languageId": 38 },
+        "translation": { "text": "All praises and thanks", "languageName": "english", "languageId": 38 },
+        "transliteration": { "text": "bis'mi", "languageName": "english", "languageId": 38 }
+      },
+      {
+        "id": 2,
+        "position": 2,
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_002_002.mp3",
+        "qpcUthmaniHafs": "لِلَّهِ",
+        "textIndopak": "لِلَّهِ",
+        "charTypeName": "word",
+        "pageNumber": 1,
+        "lineNumber": 9,
+        "text": "لِلَّهِ",
+         "translationBn": { "text": "আল্লাহ্‌রই জন্য", "languageName": "bangla", "languageId": 38 },
+        "translation": { "text": "(be) to Allah", "languageName": "english", "languageId": 38 },
+        "transliteration": { "text": "l-lahi", "languageName": "english", "languageId": 38 }
+      },
+      {
+        "id": 3,
+        "position": 3,
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_002_003.mp3",
+        "qpcUthmaniHafs": "رَبِّ",
+        "textIndopak": "رَبِّ",
+        "charTypeName": "word",
+        "pageNumber": 1,
+        "lineNumber": 9,
+        "text": "رَبِّ",
+         "translationBn": { "text": "রব", "languageName": "bangla", "languageId": 38 },
+        "translation": {
+          "text": "(the) Lord",
+          "languageName": "english",
+          "languageId": 38
+        },
+        "transliteration": { "text": "l-raḥmāni", "languageName": "english", "languageId": 38 }
+      },
+      {
+        "id": 4,
+        "position": 4,
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_002_004.mp3",
+        "qpcUthmaniHafs": "ٱلْعَٰلَمِينَ",
+        "textIndopak": "ٱلْعَٰلَمِينَ",
+        "charTypeName": "word",
+        "pageNumber": 1,
+        "lineNumber": 9,
+        "text": "ٱلْعَٰلَمِينَ",
+         "translationBn": { "text": "সারা জগতের", "languageName": "bangla", "languageId": 38 },
+        "translation": {
+          "text": "(of all) the worlds",
+          "languageName": "english",
+          "languageId": 38
+        },
+        "transliteration": { "text": "l-raḥīmi", "languageName": "english", "languageId": 38 }
+      },
+      {
+        "id": 5,
+        "position": 5,
+        "audioUrl": null,
+        "qpcUthmaniHafs": "١",
+        "textIndopak": "١",
+        "charTypeName": "end",
+        "pageNumber": 1,
+        "lineNumber": 9,
+        "text": "١",
+         "translationBn": { "text": "(১)", "languageName": "bangla", "languageId": 38 },
+        "translation": { "text": "(1)", "languageName": "english", "languageId": 38 },
+        "transliteration": { "text": null, "languageName": "english", "languageId": 38 }
+      }
+    ],
+    "timestamps": { "timestampFrom": 0 },
+    "translations": [
+      {
+        "id": 903958,
+        "resourceId": 131,
+        "text": "In the Name of Allah—the Most Compassionate, Most Merciful.",
+        "resourceName": "Dr. Mustafa Khattab, The Clear Quran",
+        "languageId": 38
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "verseNumber": 1,
+    "verseKey": "1:1",
+    "hizbNumber": 1,
+    "rubElHizbNumber": 1,
+    "rukuNumber": 1,
+    "manzilNumber": 1,
+    "sajdahNumber": null,
+    "textUthmani": "ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
+    "chapterId": 1,
+    "textImlaeiSimple": "ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
+    "pageNumber": 1,
+    "juzNumber": 1,
+    "words": [
+      {
+        "id": 1,
+        "position": 1,
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_003_001.mp3",
+        "qpcUthmaniHafs": "ٱلرَّحْمَٰنِ",
+        "textIndopak": "ٱلرَّحْمَٰنِ",
+        "charTypeName": "word",
+        "pageNumber": 1,
+        "lineNumber": 9,
+        "text": "ٱلرَّحْمَٰنِ",
+        "translationBn": { "text": "অশেষ করুণাময়", "languageName": "bangla", "languageId": 38 },
+        "translation": { "text": "The Most Gracious", "languageName": "english", "languageId": 38 },
+        "transliteration": { "text": "bis'mi", "languageName": "english", "languageId": 38 }
+      },
+      {
+        "id": 2,
+        "position": 2,
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_003_002.mp3",
+        "qpcUthmaniHafs": "ٱلرَّحِيمِ",
+        "textIndopak": "ٱلرَّحِيمِ",
+        "charTypeName": "word",
+        "pageNumber": 1,
+        "lineNumber": 9,
+        "text": "ٱلرَّحِيمِ",
+         "translationBn": { "text": "পরম দয়ালু", "languageName": "bangla", "languageId": 38 },
+        "translation": { "text": "the Most Merciful", "languageName": "english", "languageId": 38 },
+        "transliteration": { "text": "l-lahi", "languageName": "english", "languageId": 38 }
+      },
+  
+      {
+        "id": 3,
+        "position": 5,
+        "audioUrl": null,
+        "qpcUthmaniHafs": "٢",
+        "textIndopak": "٢",
+        "charTypeName": "end",
+        "pageNumber": 1,
+        "lineNumber": 9,
+        "text": "٢",
+         "translationBn": { "text": "(২)", "languageName": "bangla", "languageId": 38 },
+        "translation": { "text": "(2)", "languageName": "english", "languageId": 38 },
+        "transliteration": { "text": null, "languageName": "english", "languageId": 38 }
+      }
+    ],
+    "timestamps": { "timestampFrom": 0 },
+    "translations": [
+      {
+        "id": 903958,
+        "resourceId": 131,
+        "text": "In the Name of Allah—the Most Compassionate, Most Merciful.",
+        "resourceName": "Dr. Mustafa Khattab, The Clear Quran",
+        "languageId": 38
+      }
+    ]
+  }
+  , {
+    "id": 3,
+    "verseNumber": 1,
+    "verseKey": "1:1",
+    "hizbNumber": 1,
+    "rubElHizbNumber": 1,
+    "rukuNumber": 1,
+    "manzilNumber": 1,
+    "sajdahNumber": null,
+    "textUthmani": "مَٰلِكِ يَوۡمِ ٱلدِّينِ",
+    "chapterId": 1,
+    "textImlaeiSimple": "مَٰلِكِ يَوۡمِ ٱلدِّينِ",
+    "pageNumber": 1,
+    "juzNumber": 1,
+    "words": [
+      {
+        "id": 1,
+        "position": 1,
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_004_001.mp3",
+        "qpcUthmaniHafs": "مَٰلِكِ",
+        "textIndopak": "مَٰلِكِ",
+        "charTypeName": "word",
+        "pageNumber": 1,
+        "lineNumber": 9,
+        "text": "مَٰلِكِ",
+        "translationBn": { "text": "অধিপতি", "languageName": "bangla", "languageId": 38 },
+        "translation": { "text": "Master", "languageName": "english", "languageId": 38 },
+        "transliteration": { "text": "bis'mi", "languageName": "english", "languageId": 38 }
+      },
+      {
+        "id": 2,
+        "position": 2,
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_004_002.mp3",
+        "qpcUthmaniHafs": "يَوْمِ",
+        "textIndopak": "يَوْمِ",
+        "charTypeName": "word",
+        "pageNumber": 1,
+        "lineNumber": 9,
+        "text": "يَوْمِ",
+         "translationBn": { "text": "দিনের", "languageName": "bangla", "languageId": 38 },
+        "translation": { "text": "(of the) Day", "languageName": "english", "languageId": 38 },
+        "transliteration": { "text": "l-lahi", "languageName": "english", "languageId": 38 }
+      },
+       {
+        "id": 3,
+        "position": 2,
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_004_003.mp3",
+        "qpcUthmaniHafs": "ٱلدِّينِ",
+        "textIndopak": "ٱلدِّينِ",
+        "charTypeName": "word",
+        "pageNumber": 1,
+        "lineNumber": 9,
+        "text": "ٱلدِّينِ",
+         "translationBn": { "text": "বিচারের", "languageName": "bangla", "languageId": 38 },
+        "translation": { "text": "(of) [the] Judgment", "languageName": "english", "languageId": 38 },
+        "transliteration": { "text": "l-lahi", "languageName": "english", "languageId": 38 }
+      },
+      {
+        "id": 4,
+        "position": 5,
+        "audioUrl": null,
+        "qpcUthmaniHafs": "٣",
+        "textIndopak": "٣",
+        "charTypeName": "end",
+        "pageNumber": 1,
+        "lineNumber": 9,
+        "text": "٣",
+         "translationBn": { "text": "(৩)", "languageName": "bangla", "languageId": 38 },
+        "translation": { "text": "(3)", "languageName": "english", "languageId": 38 },
+        "transliteration": { "text": null, "languageName": "english", "languageId": 38 }
+      }
+    ],
+    "timestamps": { "timestampFrom": 0 },
+    "translations": [
+      {
+        "id": 903958,
+        "resourceId": 131,
+        "text": "In the Name of Allah—the Most Compassionate, Most Merciful.",
+        "resourceName": "Dr. Mustafa Khattab, The Clear Quran",
+        "languageId": 38
+      }
+    ]
+  }
+  , {
+    "id": 4,
+    "verseNumber": 1,
+    "verseKey": "1:1",
+    "hizbNumber": 1,
+    "rubElHizbNumber": 1,
+    "rukuNumber": 1,
+    "manzilNumber": 1,
+    "sajdahNumber": null,
+    "textUthmani": "إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ",
+    "chapterId": 1,
+    "textImlaeiSimple": "إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ",
+    "pageNumber": 1,
+    "juzNumber": 1,
+    "words": [
+      {
+        "id": 1,
+        "position": 1,
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_005_001.mp3",
+        "qpcUthmaniHafs": "إِيَّاكَ",
+        "textIndopak": "إِيَّاكَ",
+        "charTypeName": "word",
+        "pageNumber": 1,
+        "lineNumber": 9,
+        "text": "إِيَّاكَ",
+        "translationBn": { "text": "আপনারই শুধু", "languageName": "bangla", "languageId": 38 },
+        "translation": { "text": "Master", "languageName": "english", "languageId": 38 },
+        "transliteration": { "text": "bis'mi", "languageName": "english", "languageId": 38 }
+      },
+      {
+        "id": 2,
+        "position": 2,
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_005_002.mp3",
+        "qpcUthmaniHafs": "يَوْمِ",
+        "textIndopak": "يَوْمِ",
+        "charTypeName": "word",
+        "pageNumber": 1,
+        "lineNumber": 9,
+        "text": "نَعْبُدُ",
+         "translationBn": { "text": "আমরা ইবাদত করি", "languageName": "bangla", "languageId": 38 },
+        "translation": { "text": "(of the) Day", "languageName": "english", "languageId": 38 },
+        "transliteration": { "text": "l-lahi", "languageName": "english", "languageId": 38 }
+      },
+       {
+        "id": 3,
+        "position": 2,
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_005_003.mp3",
+        "qpcUthmaniHafs": "ٱلدِّينِ",
+        "textIndopak": "ٱلدِّينِ",
+        "charTypeName": "word",
+        "pageNumber": 1,
+        "lineNumber": 9,
+        "text": "وَإِيَّاكَ",
+         "translationBn": { "text": "এবং আপনারই", "languageName": "bangla", "languageId": 38 },
+        "translation": { "text": "(of) [the] Judgment", "languageName": "english", "languageId": 38 },
+        "transliteration": { "text": "l-lahi", "languageName": "english", "languageId": 38 }
+      },
+      {
+        "id": 4,
+        "position": 2,
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_005_004.mp3",
+        "qpcUthmaniHafs": "ٱلدِّينِ",
+        "textIndopak": "ٱلدِّينِ",
+        "charTypeName": "word",
+        "pageNumber": 1,
+        "lineNumber": 9,
+        "text": "نَسْتَعِينُ",
+         "translationBn": { "text": "আমরা সাহায্য চাই।", "languageName": "bangla", "languageId": 38 },
+        "translation": { "text": "(of) [the] Judgment", "languageName": "english", "languageId": 38 },
+        "transliteration": { "text": "l-lahi", "languageName": "english", "languageId": 38 }
+      },
+      
+      {
+        "id": 5,
+        "position": 5,
+        "audioUrl": null,
+        "qpcUthmaniHafs": "٣",
+        "textIndopak": "٣",
+        "charTypeName": "end",
+        "pageNumber": 1,
+        "lineNumber": 9,
+        "text": "٤",
+         "translationBn": { "text": "(৪)", "languageName": "bangla", "languageId": 38 },
+        "translation": { "text": "(4)", "languageName": "english", "languageId": 38 },
+        "transliteration": { "text": null, "languageName": "english", "languageId": 38 }
+      }
+    ],
+    "timestamps": { "timestampFrom": 0 },
+    "translations": [
+      {
+        "id": 903958,
+        "resourceId": 131,
+        "text": "In the Name of Allah—the Most Compassionate, Most Merciful.",
+        "resourceName": "Dr. Mustafa Khattab, The Clear Quran",
+        "languageId": 38
+      }
+    ]
+  }
+, {
+    "id": 5,
+    "verseNumber": 1,
+    "verseKey": "1:1",
+    "hizbNumber": 1,
+    "rubElHizbNumber": 1,
+    "rukuNumber": 1,
+    "manzilNumber": 1,
+    "sajdahNumber": null,
+    "textUthmani": "إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ",
+    "chapterId": 1,
+    "textImlaeiSimple": "إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ",
+    "pageNumber": 1,
+    "juzNumber": 1,
+    "words": [
+      {
+        "id": 1,
+        "position": 1,
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_006_001.mp3",
+        "qpcUthmaniHafs": "إِيَّاكَ",
+        "textIndopak": "إِيَّاكَ",
+        "charTypeName": "word",
+        "pageNumber": 1,
+        "lineNumber": 9,
+        "text": "ٱهْدِنَا",
+        "translationBn": { "text": "আমাদেরকে দেখান", "languageName": "bangla", "languageId": 38 },
+        "translation": { "text": "Master", "languageName": "english", "languageId": 38 },
+        "transliteration": { "text": "bis'mi", "languageName": "english", "languageId": 38 }
+      },
+      {
+        "id": 2,
+        "position": 2,
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_006_002.mp3",
+        "qpcUthmaniHafs": "يَوْمِ",
+        "textIndopak": "يَوْمِ",
+        "charTypeName": "word",
+        "pageNumber": 1,
+        "lineNumber": 9,
+        "text": "ٱلصِّرَٰطَ",
+         "translationBn": { "text": "পথ", "languageName": "bangla", "languageId": 38 },
+        "translation": { "text": "(of the) Day", "languageName": "english", "languageId": 38 },
+        "transliteration": { "text": "l-lahi", "languageName": "english", "languageId": 38 }
+      },
+       {
+        "id": 3,
+        "position": 2,
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_006_003.mp3",
+        "qpcUthmaniHafs": "ٱلدِّينِ",
+        "textIndopak": "ٱلدِّينِ",
+        "charTypeName": "word",
+        "pageNumber": 1,
+        "lineNumber": 9,
+        "text": "ٱلْمُسْتَقِيمَ",
+         "translationBn": { "text": "সরল সঠিক", "languageName": "bangla", "languageId": 38 },
+        "translation": { "text": "(of) [the] Judgment", "languageName": "english", "languageId": 38 },
+        "transliteration": { "text": "l-lahi", "languageName": "english", "languageId": 38 }
+      },
+      
+      {
+        "id": 5,
+        "position": 5,
+        "audioUrl": null,
+        "qpcUthmaniHafs": "٣",
+        "textIndopak": "٣",
+        "charTypeName": "end",
+        "pageNumber": 1,
+        "lineNumber": 9,
+        "text": "٥",
+         "translationBn": { "text": "(৫)", "languageName": "bangla", "languageId": 38 },
+        "translation": { "text": "(4)", "languageName": "english", "languageId": 38 },
+        "transliteration": { "text": null, "languageName": "english", "languageId": 38 }
+      }
+    ],
+    "timestamps": { "timestampFrom": 0 },
+    "translations": [
+      {
+        "id": 903958,
+        "resourceId": 131,
+        "text": "In the Name of Allah—the Most Compassionate, Most Merciful.",
+        "resourceName": "Dr. Mustafa Khattab, The Clear Quran",
+        "languageId": 38
+      }
+    ]
+  }
+  , {
+    "id": 6,
+    "verseNumber": 1,
+    "verseKey": "1:1",
+    "hizbNumber": 1,
+    "rubElHizbNumber": 1,
+    "rukuNumber": 1,
+    "manzilNumber": 1,
+    "sajdahNumber": null,
+    "textUthmani": "إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ",
+    "chapterId": 1,
+    "textImlaeiSimple": "إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ",
+    "pageNumber": 1,
+    "juzNumber": 1,
+    "words": [
+      {
+        "id": 1,
+        "position": 1,
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_007_001.mp3",
+        "qpcUthmaniHafs": "إِيَّاكَ",
+        "textIndopak": "إِيَّاكَ",
+        "charTypeName": "word",
+        "pageNumber": 1,
+        "lineNumber": 9,
+        "text": "صِرَٰطَ",
+        "translationBn": { "text": "পথে", "languageName": "bangla", "languageId": 38 },
+        "translation": { "text": "Master", "languageName": "english", "languageId": 38 },
+        "transliteration": { "text": "bis'mi", "languageName": "english", "languageId": 38 }
+      },
+      {
+        "id": 2,
+        "position": 2,
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_007_002.mp3",
+        "qpcUthmaniHafs": "يَوْمِ",
+        "textIndopak": "يَوْمِ",
+        "charTypeName": "word",
+        "pageNumber": 1,
+        "lineNumber": 9,
+        "text": "ٱلَّذِينَ",
+         "translationBn": { "text": "যাদেরকে", "languageName": "bangla", "languageId": 38 },
+        "translation": { "text": "(of the) Day", "languageName": "english", "languageId": 38 },
+        "transliteration": { "text": "l-lahi", "languageName": "english", "languageId": 38 }
+      },
+       {
+        "id": 3,
+        "position": 2,
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_007_003.mp3",
+        "qpcUthmaniHafs": "ٱلدِّينِ",
+        "textIndopak": "ٱلدِّينِ",
+        "charTypeName": "word",
+        "pageNumber": 1,
+        "lineNumber": 9,
+        "text": "أَنْعَمْتَ",
+         "translationBn": { "text": "আপনি অনুগ্রহ দান করেছেন", "languageName": "bangla", "languageId": 38 },
+        "translation": { "text": "(of) [the] Judgment", "languageName": "english", "languageId": 38 },
+        "transliteration": { "text": "l-lahi", "languageName": "english", "languageId": 38 }
+      },
+      {
+        "id": 4,
+        "position": 2,
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_007_004.mp3",
+        "qpcUthmaniHafs": "ٱلدِّينِ",
+        "textIndopak": "ٱلدِّينِ",
+        "charTypeName": "word",
+        "pageNumber": 1,
+        "lineNumber": 9,
+        "text": "عَلَيْهِمْ",
+         "translationBn": { "text": "তাদের উপর", "languageName": "bangla", "languageId": 38 },
+        "translation": { "text": "(of) [the] Judgment", "languageName": "english", "languageId": 38 },
+        "transliteration": { "text": "l-lahi", "languageName": "english", "languageId": 38 }
+      },
+      {
+        "id": 5,
+        "position": 2,
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_007_005.mp3",
+        "qpcUthmaniHafs": "ٱلدِّينِ",
+        "textIndopak": "ٱلدِّينِ",
+        "charTypeName": "word",
+        "pageNumber": 1,
+        "lineNumber": 9,
+        "text": "غَيْرِ",
+         "translationBn": { "text": "নয়", "languageName": "bangla", "languageId": 38 },
+        "translation": { "text": "(of) [the] Judgment", "languageName": "english", "languageId": 38 },
+        "transliteration": { "text": "l-lahi", "languageName": "english", "languageId": 38 }
+      },
+      {
+        "id": 6,
+        "position": 2,
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_007_006.mp3",
+        "qpcUthmaniHafs": "ٱلدِّينِ",
+        "textIndopak": "ٱلدِّينِ",
+        "charTypeName": "word",
+        "pageNumber": 1,
+        "lineNumber": 9,
+        "text": "ٱلْمَغْضُوبِ",
+         "translationBn": { "text": "অভিশপ্তদের", "languageName": "bangla", "languageId": 38 },
+        "translation": { "text": "(of) [the] Judgment", "languageName": "english", "languageId": 38 },
+        "transliteration": { "text": "l-lahi", "languageName": "english", "languageId": 38 }
+      },
+      {
+        "id": 7,
+        "position": 2,
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_007_007.mp3",
+        "qpcUthmaniHafs": "ٱلدِّينِ",
+        "textIndopak": "ٱلدِّينِ",
+        "charTypeName": "word",
+        "pageNumber": 1,
+        "lineNumber": 9,
+        "text": "عَلَيْهِمْ",
+         "translationBn": { "text": "যাদের উপর", "languageName": "bangla", "languageId": 38 },
+        "translation": { "text": "(of) [the] Judgment", "languageName": "english", "languageId": 38 },
+        "transliteration": { "text": "l-lahi", "languageName": "english", "languageId": 38 }
+      },
+      {
+        "id": 8,
+        "position": 2,
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_007_008.mp3",
+        "qpcUthmaniHafs": "ٱلدِّينِ",
+        "textIndopak": "ٱلدِّينِ",
+        "charTypeName": "word",
+        "pageNumber": 1,
+        "lineNumber": 9,
+        "text": "وَلَا",
+         "translationBn": { "text": "এবং না", "languageName": "bangla", "languageId": 38 },
+        "translation": { "text": "(of) [the] Judgment", "languageName": "english", "languageId": 38 },
+        "transliteration": { "text": "l-lahi", "languageName": "english", "languageId": 38 }
+      },
+      {
+        "id": 9,
+        "position": 2,
+        "audioUrl": "https://audio.qurancdn.com/wbw/001_007_009.mp3",
+        "qpcUthmaniHafs": "ٱلدِّينِ",
+        "textIndopak": "ٱلدِّينِ",
+        "charTypeName": "word",
+        "pageNumber": 1,
+        "lineNumber": 9,
+        "text": "ٱلضَّآلِّينَ",
+         "translationBn": { "text": "পথভ্রষ্টদের", "languageName": "bangla", "languageId": 38 },
+        "translation": { "text": "(of) [the] Judgment", "languageName": "english", "languageId": 38 },
+        "transliteration": { "text": "l-lahi", "languageName": "english", "languageId": 38 }
+      },
+      {
+        "id": 10,
+        "position": 5,
+        "audioUrl": null,
+        "qpcUthmaniHafs": "٣",
+        "textIndopak": "٣",
+        "charTypeName": "end",
+        "pageNumber": 1,
+        "lineNumber": 9,
+        "text": "٦",
+         "translationBn": { "text": "(৬)", "languageName": "bangla", "languageId": 38 },
+        "translation": { "text": "(6)", "languageName": "english", "languageId": 38 },
+        "transliteration": { "text": null, "languageName": "english", "languageId": 38 }
+      }
+    ],
+    "timestamps": { "timestampFrom": 0 },
+    "translations": [
+      {
+        "id": 903958,
+        "resourceId": 131,
+        "text": "In the Name of Allah—the Most Compassionate, Most Merciful.",
+        "resourceName": "Dr. Mustafa Khattab, The Clear Quran",
+        "languageId": 38
+      }
+    ]
+  }
+]

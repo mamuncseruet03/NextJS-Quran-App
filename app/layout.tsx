@@ -11,6 +11,8 @@ import RootFooter from "./_root/root-footer";
 
 import "./globals.css";
 import { Toaster } from "@/components/ui/sonner";
+import RootHeader from "./_root/root-header";
+import Sidebar from "@/components/Sidebar";
 
 export const metadata: Metadata = {
   title: "Quran App",
@@ -32,12 +34,17 @@ export default async function RootLayout({
       ${poppins.variable}
       ${notoKufiArabic.variable}
       `}
-      dir="rtl"
       suppressHydrationWarning
     >
-      <body className="min-h-screen bg-background antialiased flex flex-col justify-between font-poppins">
+      <body className="min-h-screen bg-background antialiased flex flex-col justify-between font-poppins bg-sky-100">
         <ThemeProvider attribute="class" defaultTheme="system">
-          <main className="container px-2 md:px-8">{children}</main>
+          <RootHeader />
+          <div className="flex min-h-screen">
+            <Sidebar />
+            <main className=" container px-2 md:px-8 bg-sky-100" dir="rtl">
+              {children}
+            </main>
+          </div>
           <RootFooter />
           <Toaster />
         </ThemeProvider>

@@ -15,6 +15,11 @@ export type SurahsType = {
   data: {
     number: number;
     name: string;
+    englishName: string;
+    banglaName: string;
+    englishNameTranslation: string;
+    numberOfAyahs: number;
+    revelationType: string;
   }[];
 };
 

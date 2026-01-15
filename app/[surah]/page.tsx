@@ -2,12 +2,16 @@ import SurahComponent from "./_components/surah-component";
 import SomethingWentWrong from "@/components/something-went-wrong";
 import { GetSurah, GetTafseerList } from "@/action";
 import { redirect } from "next/navigation";
+import fatihaData from "../../data/fatiha.json";
+import Verse from "@/types/Verse";
+
 export default async function Page({
   params,
 }: {
   params: Promise<{ surah: string }>;
 }) {
   const { surah } = await params;
+  const surahFatiha = fatihaData as unknown as Verse[];
 
   // check if the params value is a number
   const surahNumber = Number(surah);
@@ -22,7 +26,7 @@ export default async function Page({
 
   return (
     <div className="py-8">
-      <SurahComponent surah={data} TafseerList={TafseerList} />
+      <SurahComponent surah={surahFatiha} TafseerList={TafseerList} />
     </div>
   );
 }

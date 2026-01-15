@@ -36,6 +36,7 @@ export default function SurahsComponent({
     }
   }, [search, surahs]);
 
+  console.log("surahsData=", surahsData);
   return (
     <div className="flex flex-col gap-4">
       <div className="relative w-full md:max-w-lg">
@@ -59,7 +60,7 @@ export default function SurahsComponent({
         </Button>
         <SearchIcon className="absolute right-2 top-1/2 -translate-y-1/2 w-5 h-5 text-muted-foreground" />
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 rtl">
+      <div className="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-1 xl:grid-cols-1 gap-4 rtl">
         {surahsData &&
           surahsData.map((surah) => (
             <Link key={surah.number} href={`/${surah.number}`}>
@@ -88,6 +89,12 @@ export default function SurahsComponent({
                       style={{ fontFamily: `var(--font-${font})` }}
                     >
                       {surah.name}
+                    </p>
+                    <p
+                      className="mb-4"
+                      style={{ fontFamily: `var(--font-${font})` }}
+                    >
+                      {surah.englishName}
                     </p>
                   </div>
                 </CardHeader>

@@ -8,8 +8,9 @@ export default function RootFooter() {
       <Link
         href="https://github.com/HoshangDEV"
         className="hover:underline"
-        target="_blank">
-        HoshangDEV
+        target="_blank"
+      >
+        Developed by Mamun
       </Link>
       | {new Date().getFullYear()}
     </footer>
